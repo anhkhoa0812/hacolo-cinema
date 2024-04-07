@@ -1,0 +1,34 @@
+D:\VisualStudioProjects\HacoloCinemaWinForm\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\VisualStudioProjects\HacoloCinemaWinForm\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\VisualStudioProjects\HacoloCinemaWinForm\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\VisualStudioProjects\HacoloCinemaWinForm\Repositories\bin\Debug\net8.0\DataAccessObject.dll
+D:\VisualStudioProjects\HacoloCinemaWinForm\Repositories\bin\Debug\net8.0\DataAccessObject.pdb
+D:\VisualStudioProjects\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\VisualStudioProjects\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+D:\VisualStudioProjects\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.csproj.CopyComplete
+D:\VisualStudioProjects\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\VisualStudioProjects\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\VisualStudioProjects\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\VisualStudioProjects\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\bin\Debug\net8.0\BussinessObject.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\bin\Debug\net8.0\DataAccessObject.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\bin\Debug\net8.0\DataAccessObject.pdb
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\bin\Debug\net8.0\BussinessObject.pdb
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\Repositories\obj\Debug\net8.0\ref\Repositories.dll

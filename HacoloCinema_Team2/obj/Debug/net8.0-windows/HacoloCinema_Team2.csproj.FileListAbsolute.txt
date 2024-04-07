@@ -1,0 +1,127 @@
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\HacoloCinema_Team2.exe
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\HacoloCinema_Team2.deps.json
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\HacoloCinema_Team2.runtimeconfig.json
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\HacoloCinema_Team2.dll
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\HacoloCinema_Team2.pdb
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\DataAccessObject.dll
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Repositories.dll
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Repositories.pdb
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\DataAccessObject.pdb
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.Form1.resources
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmH.resources
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmLogin.resources
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.csproj.GenerateResource.cache
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.AssemblyInfo.cs
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.sourcelink.json
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.csproj.CopyComplete
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.dll
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\refint\HacoloCinema_Team2.dll
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.pdb
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.genruntimeconfig.cache
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\ref\HacoloCinema_Team2.dll
+D:\VisualStudioProjects\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.Properties.Resources.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\HacoloCinema_Team2.exe
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\HacoloCinema_Team2.deps.json
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\HacoloCinema_Team2.runtimeconfig.json
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\HacoloCinema_Team2.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\HacoloCinema_Team2.pdb
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\BussinessObject.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\DataAccessObject.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Repositories.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\Repositories.pdb
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\BussinessObject.pdb
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\DataAccessObject.pdb
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.csproj.AssemblyReference.cache
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmAddMoney.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmAddShowTime.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmCustomerManagement.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmCutomerOrderHistory.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\SaleManagementWinApp.frmRegister.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmShowtimeManagement.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmWallet.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.Properties.Resources.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.csproj.GenerateResource.cache
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.AssemblyInfoInputs.cache
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.AssemblyInfo.cs
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.csproj.CoreCompileInputs.cache
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.sourcelink.json
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCi.A5EE11F4.Up2Date
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\refint\HacoloCinema_Team2.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.pdb
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.genruntimeconfig.cache
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\ref\HacoloCinema_Team2.dll
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmBookTicketCustomer.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmBookTicketStaff.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmCheckoutCustomer.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmDetailMovie.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmHome.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmAddMovie.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmMovie.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmOrder.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmOrderDetail.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmPhimDangChieu.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmWalletAction.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmWalletTransaction.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\SaleManagementWinApp.frmLogin.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmMain.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\HacoloCinema_Team2.frmChangePassword.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\obj\Debug\net8.0-windows\SaleManagementWinApp.frmUpdateCustomer.resources
+C:\Users\N.Minh- ADMIN\Pictures\HacoloCinemaWinForm\HacoloCinemaWinForm\HacoloCinema_Team2\bin\Debug\net8.0-windows\appsettings.json
